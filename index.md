@@ -15,7 +15,7 @@
 - [Tecnologia]
 
 
-[Link](https://drive.google.com/drive/folders/1jdXK-eoW7uV3UCixzyouz_aOmzbnSsCE?usp=sharing) 
+[Carpeta de Drive](https://drive.google.com/drive/folders/1jdXK-eoW7uV3UCixzyouz_aOmzbnSsCE?usp=sharing) 
 
 
 Email: 4552854@alu.murciaeduca.es
