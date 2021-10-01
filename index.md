@@ -7,7 +7,7 @@
 # En este curso ire subiendo todos los trabajos/projectos a este repositorio.
 
 - [Ingles]
-- [Geografia e Historia](https://tomasps-dev.github.io/3ESOD/Geo.md) 
+- [Geografia e Historia](/3ESOD/Geo.html) 
 - [Biologia y Geologia]
 - [Matematicas]
 - [Educacion Fisica]
