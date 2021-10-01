@@ -7,7 +7,7 @@
 # En este curso ire subiendo todos los trabajos/projectos a este repositorio.
 
 - [Ingles]
-- [Geografia e Historia] 
+- [Geografia e Historia](/Geo) 
 - [Biologia y Geologia]
 - [Matematicas]
 - [Educacion Fisica]
