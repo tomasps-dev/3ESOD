@@ -11,7 +11,7 @@
 - [Biologia y Geologia](3ESOD/byg.html)
 - [Matematicas](3ESOD/mates.html)
 - [Educacion Fisica](3ESOD/ef.html)
-- [Lengua Castellana](3ESOD/lengua/html)
+- [Lengua Castellana](3ESOD/lengua.html)
 - [Tecnologia](3ESOD/tecno.html)
 
 
