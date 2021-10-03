@@ -2,7 +2,7 @@
 
 
 - [Problema Pascual](/3ESOD/mates/pascual.html)
-<pre>
+%20
 
 
 
@@ -10,5 +10,5 @@
 
 
 
-<pre>
+
 [Pagina Inicial](/3ESOD)
