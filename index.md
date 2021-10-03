@@ -9,7 +9,7 @@
 - [Ingles](/3ESOD/ingles/ingles.html)
 - [Geografia e Historia](/3ESOD/geo/geo.html) 
 - [Biologia y Geologia](/3ESOD/byg/byg.html)
-- [Matematicas](/3ESOD/down.html)
+- [Matematicas](/3ESOD/mates/mates.html)
 - [Educacion Fisica](/3ESOD/ef/ef.html)
 - [Lengua Castellana](/3ESOD/lengua/lengua.html)
 - [Tecnologia](/3ESOD/tecno/tecno.html)
