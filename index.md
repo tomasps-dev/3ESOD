@@ -7,7 +7,7 @@
 # En este curso ire subiendo todos los trabajos/projectos a este repositorio.
 
 - [Ingles](/3ESOD/ingles.html)
-- [Geografia e Historia](/3ESOD/Geo.html) 
+- [Geografia e Historia](/3ESOD/geo/geo.html) 
 - [Biologia y Geologia](/3ESOD/byg.html)
 - [Matematicas](/3ESOD/down.html)
 - [Educacion Fisica](/3ESOD/ef.html)
