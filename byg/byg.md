@@ -6,4 +6,4 @@
 
 
 
-[Pagina anterior](/3ESOD/byg/byg.html)
+[Pagina principal](/3ESOD/)
